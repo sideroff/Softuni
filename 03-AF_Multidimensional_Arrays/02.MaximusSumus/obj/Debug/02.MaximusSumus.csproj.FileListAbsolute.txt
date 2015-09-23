@@ -1,0 +1,2 @@
+C:\Users\Ivan\documents\visual studio 2015\Projects\Solution1\02.MaximusSumus\bin\Debug\02.MaximusSumus.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\02.MaximusSumus\bin\Debug\02.MaximusSumus.exe.config

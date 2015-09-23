@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2015\Projects\Solution1\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+c:\users\ivan\documents\visual studio 2015\Projects\Solution1\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+c:\users\ivan\documents\visual studio 2015\Projects\Solution1\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+c:\users\ivan\documents\visual studio 2015\Projects\Solution1\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+c:\users\ivan\documents\visual studio 2015\Projects\Solution1\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

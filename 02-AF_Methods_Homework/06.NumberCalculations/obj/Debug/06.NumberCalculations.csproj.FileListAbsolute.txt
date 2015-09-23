@@ -1,0 +1,9 @@
+c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+C:\Users\Ivan\Documents\visual studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+C:\Users\Ivan\Documents\visual studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\Ivan\Documents\visual studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

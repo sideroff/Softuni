@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\08.NightLife\obj\Debug\08.NightLife.pdb

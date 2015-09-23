@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\07.Phonebook\bin\Debug\07.Phonebook.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\07.Phonebook\bin\Debug\07.Phonebook.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\07.Phonebook\obj\Debug\07.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\07.Phonebook\obj\Debug\07.Phonebook.pdb

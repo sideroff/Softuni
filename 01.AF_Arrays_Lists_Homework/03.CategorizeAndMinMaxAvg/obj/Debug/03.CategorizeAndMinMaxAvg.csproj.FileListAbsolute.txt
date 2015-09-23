@@ -1,0 +1,9 @@
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\03.CategorizeAndMinMaxAvg\bin\Debug\03.CategorizeAndMinMaxAvg.exe.config
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\03.CategorizeAndMinMaxAvg\bin\Debug\03.CategorizeAndMinMaxAvg.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\03.CategorizeAndMinMaxAvg\bin\Debug\03.CategorizeAndMinMaxAvg.pdb
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\03.CategorizeAndMinMaxAvg\obj\Debug\03.CategorizeAndMinMaxAvg.csprojResolveAssemblyReference.cache
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\03.CategorizeAndMinMaxAvg\obj\Debug\03.CategorizeAndMinMaxAvg.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\03.CategorizeAndMinMaxAvg\obj\Debug\03.CategorizeAndMinMaxAvg.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\03.CategorizeAndMinMaxAvg\bin\Debug\03.CategorizeAndMinMaxAvg.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\03.CategorizeAndMinMaxAvg\obj\Debug\03.CategorizeAndMinMaxAvg.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\03.CategorizeAndMinMaxAvg\obj\Debug\03.CategorizeAndMinMaxAvg.pdb

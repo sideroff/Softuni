@@ -1,0 +1,8 @@
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

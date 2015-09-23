@@ -1,0 +1,9 @@
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\02.SortArrayUsingSelectionSort\bin\Debug\02.SortArrayUsingSelectionSort.exe.config
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\02.SortArrayUsingSelectionSort\bin\Debug\02.SortArrayUsingSelectionSort.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\02.SortArrayUsingSelectionSort\bin\Debug\02.SortArrayUsingSelectionSort.pdb
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\02.SortArrayUsingSelectionSort\obj\Debug\02.SortArrayUsingSelectionSort.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\02.SortArrayUsingSelectionSort\obj\Debug\02.SortArrayUsingSelectionSort.pdb
+C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\02.SortArrayUsingSelectionSort\obj\Debug\02.SortArrayUsingSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\02.SortArrayUsingSelectionSort\bin\Debug\02.SortArrayUsingSelectionSort.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\02.SortArrayUsingSelectionSort\obj\Debug\02.SortArrayUsingSelectionSort.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\02.SortArrayUsingSelectionSort\obj\Debug\02.SortArrayUsingSelectionSort.pdb

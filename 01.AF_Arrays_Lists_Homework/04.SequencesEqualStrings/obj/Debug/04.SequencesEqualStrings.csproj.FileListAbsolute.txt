@@ -1,0 +1,8 @@
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.exe.config
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.pdb
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.exe
+c:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.pdb

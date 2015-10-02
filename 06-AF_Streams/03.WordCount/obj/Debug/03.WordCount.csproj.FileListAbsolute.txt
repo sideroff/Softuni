@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\03.WordCount\bin\Debug\03.WordCount.exe.config
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\03.WordCount\bin\Debug\03.WordCount.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\03.WordCount\bin\Debug\03.WordCount.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\03.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\03.WordCount\obj\Debug\03.WordCount.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\03.WordCount\obj\Debug\03.WordCount.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\bin\Debug\09.WeakStudents.exe.config
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\bin\Debug\09.WeakStudents.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\bin\Debug\09.WeakStudents.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\bin\Debug\01.Class-Student.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\bin\Debug\01.Class-Student.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\obj\Debug\09.WeakStudents.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\09.WeakStudents\obj\Debug\09.WeakStudents.pdb

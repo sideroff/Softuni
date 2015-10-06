@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\bin\Debug\04.StudentsByAge.exe.config
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\bin\Debug\04.StudentsByAge.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\bin\Debug\04.StudentsByAge.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\bin\Debug\01.Class-Student.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\bin\Debug\01.Class-Student.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\obj\Debug\04.StudentsByAge.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\obj\Debug\04.StudentsByAge.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\04.StudentsByAge\obj\Debug\04.StudentsByAge.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\bin\Debug\05.SortStudents.exe.config
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\bin\Debug\05.SortStudents.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\bin\Debug\05.SortStudents.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\bin\Debug\01.Class-Student.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\bin\Debug\01.Class-Student.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\obj\Debug\05.SortStudents.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\05.SortStudents\obj\Debug\05.SortStudents.pdb

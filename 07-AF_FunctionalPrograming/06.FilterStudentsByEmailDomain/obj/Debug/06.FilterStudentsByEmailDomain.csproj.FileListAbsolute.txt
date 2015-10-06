@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe.config
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\bin\Debug\01.Class-Student.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\bin\Debug\01.Class-Student.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.pdb

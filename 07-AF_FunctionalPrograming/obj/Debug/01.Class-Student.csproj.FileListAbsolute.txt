@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\bin\Debug\01.Class-Student.exe.config
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\bin\Debug\01.Class-Student.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\bin\Debug\01.Class-Student.pdb
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\obj\Debug\01.Class-Student.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\obj\Debug\01.Class-Student.exe
+C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\obj\Debug\01.Class-Student.pdb

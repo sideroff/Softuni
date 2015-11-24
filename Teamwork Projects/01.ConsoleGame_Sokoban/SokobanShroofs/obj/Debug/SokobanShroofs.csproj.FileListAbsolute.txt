@@ -16,3 +16,6 @@ C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\SOKOBAN FINAL\SokobanShr
 C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\SOKOBAN FINAL\SokobanShroofs\bin\Debug\SokobanShroofs.exe
 C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\SOKOBAN FINAL\SokobanShroofs\bin\Debug\SokobanShroofs.pdb
 C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\SOKOBAN FINAL\SokobanShroofs\obj\Debug\SokobanShroofs.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\softuni-homework\Teamwork Projects\01.ConsoleGame_Sokoban\SokobanShroofs\bin\Debug\SokobanShroofs.exe.config
+C:\Users\Ivan\Documents\GitHub\softuni-homework\Teamwork Projects\01.ConsoleGame_Sokoban\SokobanShroofs\obj\Debug\SokobanShroofs.exe
+C:\Users\Ivan\Documents\GitHub\softuni-homework\Teamwork Projects\01.ConsoleGame_Sokoban\SokobanShroofs\obj\Debug\SokobanShroofs.pdb

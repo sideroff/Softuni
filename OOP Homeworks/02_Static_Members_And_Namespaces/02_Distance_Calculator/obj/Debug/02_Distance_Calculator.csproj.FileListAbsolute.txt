@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\bin\Debug\02_Distance_Calculator.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\bin\Debug\02_Distance_Calculator.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\bin\Debug\02_Distance_Calculator.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\bin\Debug\01_Point3d.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\bin\Debug\01_Point3d.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\obj\Debug\02_Distance_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\obj\Debug\02_Distance_Calculator.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\02_Distance_Calculator\obj\Debug\02_Distance_Calculator.pdb

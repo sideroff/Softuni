@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\GitHub\OOP\Solution1\01_Persons\bin\Debug\01_Persons.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\Solution1\01_Persons\bin\Debug\01_Persons.exe
+C:\Users\Ivan\Documents\GitHub\OOP\Solution1\01_Persons\bin\Debug\01_Persons.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\Solution1\01_Persons\obj\Debug\01_Persons.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\Solution1\01_Persons\obj\Debug\01_Persons.exe
+C:\Users\Ivan\Documents\GitHub\OOP\Solution1\01_Persons\obj\Debug\01_Persons.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\01_Persons\bin\Debug\01_Persons.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\01_Persons\obj\Debug\01_Persons.exe
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\01_Persons\obj\Debug\01_Persons.pdb

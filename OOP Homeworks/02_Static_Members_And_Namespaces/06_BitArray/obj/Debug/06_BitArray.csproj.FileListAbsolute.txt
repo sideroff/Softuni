@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\06_BitArray\bin\Debug\06_BitArray.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\06_BitArray\bin\Debug\06_BitArray.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\06_BitArray\bin\Debug\06_BitArray.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\06_BitArray\obj\Debug\06_BitArray.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\06_BitArray\obj\Debug\06_BitArray.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\06_BitArray\obj\Debug\06_BitArray.pdb

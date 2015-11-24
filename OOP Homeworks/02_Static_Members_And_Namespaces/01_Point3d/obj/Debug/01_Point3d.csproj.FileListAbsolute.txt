@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\01_Point3d\bin\Debug\01_Point3d.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\01_Point3d\obj\Debug\01_Point3d.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\01_Point3d\bin\Debug\01_Point3d.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\01_Point3d\bin\Debug\01_Point3d.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\01_Point3d\obj\Debug\01_Point3d.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\01_Point3d\obj\Debug\01_Point3d.pdb

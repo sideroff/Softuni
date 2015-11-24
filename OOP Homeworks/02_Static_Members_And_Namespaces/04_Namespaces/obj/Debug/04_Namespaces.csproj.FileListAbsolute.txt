@@ -1,0 +1,1 @@
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\04_Namespaces\bin\Debug\04_Namespaces.exe.config

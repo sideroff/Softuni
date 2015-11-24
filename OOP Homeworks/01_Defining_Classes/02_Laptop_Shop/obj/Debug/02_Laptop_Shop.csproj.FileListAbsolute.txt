@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\02_Laptop_Shop\bin\Debug\02_Laptop_Shop.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\02_Laptop_Shop\bin\Debug\02_Laptop_Shop.exe
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\02_Laptop_Shop\bin\Debug\02_Laptop_Shop.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\02_Laptop_Shop\obj\Debug\02_Laptop_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\02_Laptop_Shop\obj\Debug\02_Laptop_Shop.exe
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\02_Laptop_Shop\obj\Debug\02_Laptop_Shop.pdb

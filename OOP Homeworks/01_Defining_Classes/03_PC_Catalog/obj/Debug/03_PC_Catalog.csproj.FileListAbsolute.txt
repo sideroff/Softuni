@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\03_PC_Catalog\bin\Debug\03_PC_Catalog.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\03_PC_Catalog\bin\Debug\03_PC_Catalog.exe
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\03_PC_Catalog\bin\Debug\03_PC_Catalog.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\03_PC_Catalog\obj\Debug\03_PC_Catalog.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\03_PC_Catalog\obj\Debug\03_PC_Catalog.exe
+C:\Users\Ivan\Documents\GitHub\OOP\01_Defining_Classes\03_PC_Catalog\obj\Debug\03_PC_Catalog.pdb

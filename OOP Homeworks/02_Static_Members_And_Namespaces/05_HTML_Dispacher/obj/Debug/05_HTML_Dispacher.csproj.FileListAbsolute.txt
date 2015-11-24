@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\05_HTML_Dispacher\bin\Debug\05_HTML_Dispacher.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\05_HTML_Dispacher\bin\Debug\05_HTML_Dispacher.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\05_HTML_Dispacher\bin\Debug\05_HTML_Dispacher.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\05_HTML_Dispacher\obj\Debug\05_HTML_Dispacher.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\05_HTML_Dispacher\obj\Debug\05_HTML_Dispacher.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Static_Members_And_Namespaces\05_HTML_Dispacher\obj\Debug\05_HTML_Dispacher.pdb

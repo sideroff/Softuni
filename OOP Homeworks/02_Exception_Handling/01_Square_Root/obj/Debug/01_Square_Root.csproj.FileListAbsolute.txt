@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\OOP\02_Exception_Handling\01_Square_Root\bin\Debug\01_Square_Root.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\02_Exception_Handling\01_Square_Root\bin\Debug\01_Square_Root.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Exception_Handling\01_Square_Root\bin\Debug\01_Square_Root.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\02_Exception_Handling\01_Square_Root\obj\Debug\01_Square_Root.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\02_Exception_Handling\01_Square_Root\obj\Debug\01_Square_Root.exe
+C:\Users\Ivan\Documents\GitHub\OOP\02_Exception_Handling\01_Square_Root\obj\Debug\01_Square_Root.pdb

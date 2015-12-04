@@ -1,0 +1,3 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\Shapes\bin\Debug\Shapes.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\Shapes\obj\Debug\Shapes.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_03_Company_Hierarchy.Person" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Customer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Employee" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Manager" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employees\Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_03_Company_Hierarchy.RegularEmployee">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employees\RegularEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Program" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Persons.Employees.RegularEmployees.Developer" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAQA=</HashCode>
+      <FileName>Persons\Employees\RegularEmployees\Developer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Persons.Employees.RegularEmployees.Project" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAABAAAAAAAAAAQAAAAEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employees\RegularEmployees\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Persons.Employees.RegularEmployees.Sale" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAAA=</HashCode>
+      <FileName>Persons\Employees\RegularEmployees\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Company_Hierarchy.Persons.Employees.RegularEmployees.SalesEmployee" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employees\RegularEmployees\SalesEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_03_Company_Hierarchy.Persons.Employees.IManager" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employees\IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_03_Company_Hierarchy.Persons.IEmployee" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\IEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_03_Company_Hierarchy.Persons.IPerson" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Persons\IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="_03_Company_Hierarchy.Departments" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Departments.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

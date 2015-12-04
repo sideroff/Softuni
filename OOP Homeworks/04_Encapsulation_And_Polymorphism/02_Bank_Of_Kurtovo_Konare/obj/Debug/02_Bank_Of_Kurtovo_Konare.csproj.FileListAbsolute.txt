@@ -1,0 +1,6 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\02_Bank_Of_Kurtovo_Konare\bin\Debug\02_Bank_Of_Kurtovo_Konare.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\02_Bank_Of_Kurtovo_Konare\bin\Debug\02_Bank_Of_Kurtovo_Konare.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\02_Bank_Of_Kurtovo_Konare\bin\Debug\02_Bank_Of_Kurtovo_Konare.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\02_Bank_Of_Kurtovo_Konare\obj\Debug\02_Bank_Of_Kurtovo_Konare.csprojResolveAssemblyReference.cache
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\02_Bank_Of_Kurtovo_Konare\obj\Debug\02_Bank_Of_Kurtovo_Konare.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution2\02_Bank_Of_Kurtovo_Konare\obj\Debug\02_Bank_Of_Kurtovo_Konare.pdb

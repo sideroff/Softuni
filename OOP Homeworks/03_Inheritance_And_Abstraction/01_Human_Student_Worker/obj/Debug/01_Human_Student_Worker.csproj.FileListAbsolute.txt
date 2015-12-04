@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\GitHub\OOP\03_Inheritance_And_Abstraction\01_Human_Student_Worker\bin\Debug\01_Human_Student_Worker.exe.config
+C:\Users\Ivan\Documents\GitHub\OOP\03_Inheritance_And_Abstraction\01_Human_Student_Worker\bin\Debug\01_Human_Student_Worker.exe
+C:\Users\Ivan\Documents\GitHub\OOP\03_Inheritance_And_Abstraction\01_Human_Student_Worker\bin\Debug\01_Human_Student_Worker.pdb
+C:\Users\Ivan\Documents\GitHub\OOP\03_Inheritance_And_Abstraction\01_Human_Student_Worker\obj\Debug\01_Human_Student_Worker.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\OOP\03_Inheritance_And_Abstraction\01_Human_Student_Worker\obj\Debug\01_Human_Student_Worker.exe
+C:\Users\Ivan\Documents\GitHub\OOP\03_Inheritance_And_Abstraction\01_Human_Student_Worker\obj\Debug\01_Human_Student_Worker.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\03_Inheritance_And_Abstraction\01_Human_Student_Worker\bin\Debug\01_Human_Student_Worker.exe.config
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\03_Inheritance_And_Abstraction\01_Human_Student_Worker\obj\Debug\01_Human_Student_Worker.exe
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\03_Inheritance_And_Abstraction\01_Human_Student_Worker\obj\Debug\01_Human_Student_Worker.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\02_Interest_Calculator\bin\Debug\02_Interest_Calculator.exe.config
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\02_Interest_Calculator\bin\Debug\02_Interest_Calculator.exe
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\02_Interest_Calculator\bin\Debug\02_Interest_Calculator.pdb
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\02_Interest_Calculator\obj\Debug\02_Interest_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\02_Interest_Calculator\obj\Debug\02_Interest_Calculator.exe
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\02_Interest_Calculator\obj\Debug\02_Interest_Calculator.pdb

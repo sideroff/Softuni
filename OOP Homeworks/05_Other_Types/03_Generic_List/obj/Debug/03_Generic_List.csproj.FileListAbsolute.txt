@@ -1,0 +1,12 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\03_Generic_List\bin\Debug\03_Generic_List.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\03_Generic_List\bin\Debug\03_Generic_List.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\03_Generic_List\bin\Debug\03_Generic_List.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\03_Generic_List\obj\Debug\03_Generic_List.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\03_Generic_List\obj\Debug\03_Generic_List.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\03_Generic_List\obj\Debug\03_Generic_List.csprojResolveAssemblyReference.cache
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\03_Generic_List\bin\Debug\03_Generic_List.exe.config
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\03_Generic_List\obj\Debug\03_Generic_List.exe
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\03_Generic_List\obj\Debug\03_Generic_List.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\03_Generic_List\bin\Debug\03_Generic_List.exe
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\03_Generic_List\bin\Debug\03_Generic_List.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\03_Generic_List\obj\Debug\03_Generic_List.csprojResolveAssemblyReference.cache

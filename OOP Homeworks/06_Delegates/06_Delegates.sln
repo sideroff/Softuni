@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Custom_LINQ", "01_Custom_LINQ\01_Custom_LINQ.csproj", "{451F507D-B519-42BD-8023-8380E1654B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Interest_Calculator", "02_Interest_Calculator\02_Interest_Calculator.csproj", "{A38DE063-39E7-47A1-BDF8-B073F802D3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Asynchronous_Timer", "03_Asynchronous_Timer\03_Asynchronous_Timer.csproj", "{EFF2345F-B116-4A6D-A3E1-ECC7B320B862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Student_Class1", "04_Student_Class1\04_Student_Class1.csproj", "{1AD84FBD-6ABB-43FE-B70B-08D6AFA42CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451F507D-B519-42BD-8023-8380E1654B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451F507D-B519-42BD-8023-8380E1654B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451F507D-B519-42BD-8023-8380E1654B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451F507D-B519-42BD-8023-8380E1654B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38DE063-39E7-47A1-BDF8-B073F802D3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38DE063-39E7-47A1-BDF8-B073F802D3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38DE063-39E7-47A1-BDF8-B073F802D3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38DE063-39E7-47A1-BDF8-B073F802D3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF2345F-B116-4A6D-A3E1-ECC7B320B862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF2345F-B116-4A6D-A3E1-ECC7B320B862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF2345F-B116-4A6D-A3E1-ECC7B320B862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF2345F-B116-4A6D-A3E1-ECC7B320B862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD84FBD-6ABB-43FE-B70B-08D6AFA42CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD84FBD-6ABB-43FE-B70B-08D6AFA42CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD84FBD-6ABB-43FE-B70B-08D6AFA42CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD84FBD-6ABB-43FE-B70B-08D6AFA42CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

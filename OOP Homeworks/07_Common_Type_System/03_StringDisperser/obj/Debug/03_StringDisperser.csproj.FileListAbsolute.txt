@@ -1,0 +1,5 @@
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\03_StringDisperser\bin\Debug\03_StringDisperser.exe.config
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\03_StringDisperser\bin\Debug\03_StringDisperser.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\03_StringDisperser\bin\Debug\03_StringDisperser.pdb
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\03_StringDisperser\obj\Debug\03_StringDisperser.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\03_StringDisperser\obj\Debug\03_StringDisperser.pdb

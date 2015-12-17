@@ -1,0 +1,6 @@
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\04_Student_Class1\bin\Debug\04_Student_Class1.exe.config
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\04_Student_Class1\bin\Debug\04_Student_Class1.exe
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\04_Student_Class1\bin\Debug\04_Student_Class1.pdb
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\04_Student_Class1\obj\Debug\04_Student_Class1.csprojResolveAssemblyReference.cache
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\04_Student_Class1\obj\Debug\04_Student_Class1.exe
+C:\Users\ivans\OneDrive\Documents\Visual Studio 2015\Projects\06_Delegates_\04_Student_Class1\obj\Debug\04_Student_Class1.pdb

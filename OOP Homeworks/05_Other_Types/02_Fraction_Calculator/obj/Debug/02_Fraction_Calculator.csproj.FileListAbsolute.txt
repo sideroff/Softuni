@@ -1,0 +1,12 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\02_Fraction_Calculator\bin\Debug\02_Fraction_Calculator.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\02_Fraction_Calculator\bin\Debug\02_Fraction_Calculator.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\02_Fraction_Calculator\bin\Debug\02_Fraction_Calculator.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\02_Fraction_Calculator\obj\Debug\02_Fraction_Calculator.csprojResolveAssemblyReference.cache
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\02_Fraction_Calculator\obj\Debug\02_Fraction_Calculator.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\02_Fraction_Calculator\obj\Debug\02_Fraction_Calculator.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\02_Fraction_Calculator\bin\Debug\02_Fraction_Calculator.exe.config
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\02_Fraction_Calculator\obj\Debug\02_Fraction_Calculator.exe
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\02_Fraction_Calculator\obj\Debug\02_Fraction_Calculator.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\02_Fraction_Calculator\bin\Debug\02_Fraction_Calculator.exe
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\02_Fraction_Calculator\bin\Debug\02_Fraction_Calculator.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\02_Fraction_Calculator\obj\Debug\02_Fraction_Calculator.csprojResolveAssemblyReference.cache

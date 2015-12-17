@@ -1,0 +1,6 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\02.Customer\bin\Debug\02.Customer.exe.config
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\02.Customer\bin\Debug\02.Customer.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\02.Customer\bin\Debug\02.Customer.pdb
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\02.Customer\obj\Debug\02.Customer.csprojResolveAssemblyReference.cache
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\02.Customer\obj\Debug\02.Customer.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\06_Common_Type_System\02.Customer\obj\Debug\02.Customer.pdb

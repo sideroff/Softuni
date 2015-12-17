@@ -1,0 +1,9 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\05_Other_Types\bin\Debug\05_Other_Types.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\05_Other_Types\bin\Debug\05_Other_Types.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\05_Other_Types\bin\Debug\05_Other_Types.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\05_Other_Types\obj\Debug\01_Galactic_GPS.csprojResolveAssemblyReference.cache
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\05_Other_Types\obj\Debug\05_Other_Types.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\05_Other_Types\05_Other_Types\obj\Debug\05_Other_Types.pdb
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\05_Other_Types\bin\Debug\05_Other_Types.exe.config
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\05_Other_Types\obj\Debug\05_Other_Types.exe
+C:\Users\ivans\OneDrive\Documents\Softuni\OOP Homeworks\05_Other_Types\05_Other_Types\obj\Debug\05_Other_Types.pdb

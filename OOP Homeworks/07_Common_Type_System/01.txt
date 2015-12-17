@@ -1,0 +1,29 @@
+Value types - 	1.
+				Struct, Enum, 
+				Numeric: Int, Float, Decimal
+				bool, user-defied
+				
+				2. Creates a new copy of the value
+				
+				3. The value gets passed as agrument
+				
+				4. Stored in the stack
+				
+				5. Can be mutated 
+				
+				
+				
+Ref types - 	1.
+				Class, Interface, Delegate
+				Dynamic, object, string
+				
+				2. Creates a pointer to already assigned value
+				
+				3. A pointer to the value gets passed as agrument
+				
+				4. Stored in the heap
+
+				5. Cannot be mutated
+				
+				The ref keyword causes an argument to be passed by referance not by value
+				The out keyword forces us to initialize the variable

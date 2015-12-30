@@ -1,0 +1,5 @@
+G:\Chrome Downloads\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Chrome Downloads\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Chrome Downloads\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Chrome Downloads\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Chrome Downloads\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

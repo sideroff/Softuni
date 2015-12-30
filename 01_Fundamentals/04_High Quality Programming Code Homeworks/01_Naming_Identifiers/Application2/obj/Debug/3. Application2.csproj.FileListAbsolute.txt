@@ -1,0 +1,6 @@
+G:\Chrome Downloads\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+G:\Chrome Downloads\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+G:\Chrome Downloads\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+G:\Chrome Downloads\Naming Identifiers Homework\Application2\obj\Debug\3. Application2.csprojResolveAssemblyReference.cache
+G:\Chrome Downloads\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+G:\Chrome Downloads\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb

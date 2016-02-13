@@ -1,0 +1,1 @@
+C:\Users\ivans\OneDrive\Documents\Softuni\01_Fundamentals\04_High Quality Programming Code Homeworks\10_SOLID_Practices\01_Logger\bin\Debug\01_Logger.exe.config

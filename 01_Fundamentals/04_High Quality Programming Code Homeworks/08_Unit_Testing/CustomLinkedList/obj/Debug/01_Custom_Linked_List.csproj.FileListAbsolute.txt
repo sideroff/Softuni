@@ -1,0 +1,6 @@
+G:\Chrome Downloads\for_evaluation\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll.config
+G:\Chrome Downloads\for_evaluation\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll
+G:\Chrome Downloads\for_evaluation\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.pdb
+G:\Chrome Downloads\for_evaluation\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\obj\Debug\01_Custom_Linked_List.csprojResolveAssemblyReference.cache
+G:\Chrome Downloads\for_evaluation\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.dll
+G:\Chrome Downloads\for_evaluation\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.pdb

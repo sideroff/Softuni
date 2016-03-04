@@ -1,0 +1,6 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\01_Sum_And_Average\bin\Debug\01_Sum_And_Average.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\01_Sum_And_Average\bin\Debug\01_Sum_And_Average.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\01_Sum_And_Average\bin\Debug\01_Sum_And_Average.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\01_Sum_And_Average\obj\Debug\01_Sum_And_Average.csprojResolveAssemblyReference.cache
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\01_Sum_And_Average\obj\Debug\01_Sum_And_Average.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\01_Sum_And_Average\obj\Debug\01_Sum_And_Average.pdb

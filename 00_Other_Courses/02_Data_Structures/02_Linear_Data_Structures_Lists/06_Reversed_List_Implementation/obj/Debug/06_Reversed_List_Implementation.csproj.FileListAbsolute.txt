@@ -1,0 +1,6 @@
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\06_Reversed_List_Implementation\bin\Debug\06_Reversed_List_Implementation.exe.config
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\06_Reversed_List_Implementation\bin\Debug\06_Reversed_List_Implementation.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\06_Reversed_List_Implementation\bin\Debug\06_Reversed_List_Implementation.pdb
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\06_Reversed_List_Implementation\obj\Debug\06_Reversed_List_Implementation.csprojResolveAssemblyReference.cache
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\06_Reversed_List_Implementation\obj\Debug\06_Reversed_List_Implementation.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\06_Reversed_List_Implementation\obj\Debug\06_Reversed_List_Implementation.pdb

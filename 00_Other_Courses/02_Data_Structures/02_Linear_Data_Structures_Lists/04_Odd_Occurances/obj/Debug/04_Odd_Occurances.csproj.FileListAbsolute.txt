@@ -1,0 +1,6 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\04_Odd_Occurances\bin\Debug\04_Odd_Occurances.exe.config
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\04_Odd_Occurances\bin\Debug\04_Odd_Occurances.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\04_Odd_Occurances\bin\Debug\04_Odd_Occurances.pdb
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\04_Odd_Occurances\obj\Debug\04_Odd_Occurances.csprojResolveAssemblyReference.cache
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\04_Odd_Occurances\obj\Debug\04_Odd_Occurances.exe
+C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\04_Odd_Occurances\obj\Debug\04_Odd_Occurances.pdb

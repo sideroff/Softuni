@@ -1,0 +1,5 @@
+G:\Chrome Downloads\03_DS_Exercise\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+G:\Chrome Downloads\03_DS_Exercise\CircularQueue\bin\Debug\CircularQueue.exe
+G:\Chrome Downloads\03_DS_Exercise\CircularQueue\bin\Debug\CircularQueue.pdb
+G:\Chrome Downloads\03_DS_Exercise\CircularQueue\obj\Debug\CircularQueue.exe
+G:\Chrome Downloads\03_DS_Exercise\CircularQueue\obj\Debug\CircularQueue.pdb

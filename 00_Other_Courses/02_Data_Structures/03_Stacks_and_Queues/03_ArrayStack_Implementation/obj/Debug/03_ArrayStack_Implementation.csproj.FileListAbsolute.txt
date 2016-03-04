@@ -1,0 +1,5 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\03_ArrayStack_Implementation\bin\Debug\03_ArrayStack_Implementation.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\03_ArrayStack_Implementation\bin\Debug\03_ArrayStack_Implementation.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\03_ArrayStack_Implementation\bin\Debug\03_ArrayStack_Implementation.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\03_ArrayStack_Implementation\obj\Debug\03_ArrayStack_Implementation.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\03_ArrayStack_Implementation\obj\Debug\03_ArrayStack_Implementation.pdb

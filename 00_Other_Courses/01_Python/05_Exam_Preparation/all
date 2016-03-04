@@ -1,0 +1,265 @@
+import sys
+import math
+
+def main():
+    try:
+        paper = float(input())
+        height = float(input())
+        width = float(input())
+        lenght = float(input())
+
+        surface_area = 2*lenght*width+2*lenght*height+2*width*height
+        surface_area *= 1.098
+        print(math.ceil(surface_area/paper))
+
+    except(Exception):
+        print('INVALID INPUT')
+
+if __name__ == '__main__':
+    sys.exit(main())
+
+    ####################################
+
+    import sys
+import os
+
+def file_check(file_path):
+    if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
+        raise FileExistsError('Path is either a dir or cannot be accessed for reading')
+def find_last_step_coordinates(file_path):
+    x_coord = 0
+    y_coord = 0
+    has_changed = False
+    with open(file_path, encoding='utf-8') as f:
+        for line in f:
+            line=line.strip()
+            if line:
+                splitted = line.split()
+                if(splitted[0]=="left"):
+                    x_coord -= float(splitted[1])
+                    has_changed=True
+                elif(splitted[0]=='right'):
+                    x_coord += float(splitted[1])
+                    has_changed=True
+                elif(splitted[0]=='up'):
+                    y_coord += float(splitted[1])
+                    has_changed=True
+                elif(splitted[0]=='down'):
+                    y_coord -= float(splitted[1])
+                    has_changed=True
+    if(not has_changed):
+        raise Exception
+    return x_coord,y_coord
+
+def main():
+    try:
+
+        file_path = input()
+
+        file_check(file_path)
+
+        x,y = find_last_step_coordinates(file_path)
+
+        print('X {:.3f}'.format(x))
+        print('Y {:.3f}'.format(y))
+    except(Exception):
+        print('INVALID INPUT')
+
+if __name__ == '__main__':
+    sys.exit(main())
+
+    #############################
+
+    import sys
+import os
+import math
+
+from decimal import Decimal
+def file_check(file_path):
+    if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
+        raise FileExistsError('Path is either a dir or cannot be accessed for reading')
+
+def containers_from_file_as_dict(file_path):
+    containers_list_of_tuples = list()
+    with open(file_path, encoding='utf-8') as f:
+        for line in f:
+            line=line.strip()
+            if line:
+                splitted = line.split(',')
+                #π*r^2*h
+                r = float(splitted[1])
+                h = float(splitted[2])
+                if r<=0 or h<=0:
+                    raise Exception
+
+                volume = math.pi * math.pow(r,2) * h
+                containers_list_of_tuples.append((splitted[0],volume))
+
+    return containers_list_of_tuples
+#TRY EMPTY FILE
+def main():
+    try:
+        litres_rakiya = float(input())
+        if litres_rakiya<0:
+            raise Exception
+        file_path = input()
+
+        file_check(file_path)
+
+        containers_list_of_tuples = containers_from_file_as_dict(file_path)
+
+        name_of_container = ''
+        minimal_difference = Decimal('Infinity')
+
+        for item in containers_list_of_tuples:
+            difference_in_litres = (item[1]/1000)-litres_rakiya
+            if(difference_in_litres>=0  and difference_in_litres<minimal_difference):
+                minimal_difference = difference_in_litres
+                name_of_container = item[0]
+
+        if(name_of_container):
+            print(name_of_container)
+        else:
+            print('NO SUITABLE CONTAINER')
+
+    except(Exception):
+        print('INVALID INPUT')
+
+if __name__ == '__main__':
+    sys.exit(main())
+
+
+    ##########################
+
+    import sys
+import os
+import iso8601
+from datetime import date
+from datetime import datetime, timezone
+
+
+def file_check(file_path):
+    if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
+        raise FileExistsError('Path is either a dir or cannot be accessed for reading')
+
+def dates_from_file_to_dict_of_tuples(file_path):
+    dict_of_tuples = {}
+    cities = set()
+    has_data = False
+    with open(file_path, encoding='utf-8') as f:
+        for line in f:
+            line=line.strip()
+            if(line):
+                splitted = line.split(',')
+                date = iso8601.parse_date(splitted[0].strip())
+                city = splitted[1]
+                has_data = True
+                if(date not in dict_of_tuples):
+                    dict_of_tuples[date] = set()
+                dict_of_tuples[date].add(city)
+                cities.add(city)
+    if(not has_data):
+        raise Exception
+    return dict_of_tuples,\
+           cities,
+
+#STRIP OF QUOTATIONS
+def main():
+    try:
+        file_path = input()
+        file_check(file_path)
+
+        dict_of_tuples, \
+        list_of_cities = dates_from_file_to_dict_of_tuples(file_path)
+
+        output = list()
+        sorted_dates = sorted(dict_of_tuples.keys(), reverse=False)
+        for date in sorted_dates:
+            differences = dict_of_tuples[date]^list_of_cities
+            if differences:
+                stringche = str(date.year) +'-'+'{:02d}'.format(date.month) + '-' + '{:02d}'.format(date.day)
+                sorted_differences = sorted(differences)
+                for each in sorted_differences:
+                    stringche+=',' + each
+                output.append(stringche)
+
+        if output:
+            for each_line in output:
+                print(each_line)
+        else:
+            print('ALL DATA AVAILABLE')
+    except(Exception):
+        print('INVALID INPUT')
+
+if __name__ == '__main__':
+    sys.exit(main())
+
+
+    ########################
+
+    import sys
+import os
+
+def file_check(file_path):
+    if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
+        raise FileExistsError('Path is either a dir or cannot be accessed for reading')
+
+def file_to_dict_of_cities(file_path):
+    dict_of_cities = dict()
+    dict_of_sales = dict()
+    has_data = False
+    with open(file_path, encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if(line):
+                has_data = True
+                splitted = line.split(',')
+                city = splitted[2].strip('"')
+                item_id = splitted[0].strip('"')
+                if(city not in dict_of_cities):
+                    #POSSIBLE NEED FOR SET
+                    dict_of_cities[city] = list()
+                if(item_id not in dict_of_sales):
+                    dict_of_sales[item_id] = list()
+                dict_of_sales[item_id].append(city)
+                dict_of_cities[city].append(item_id)
+
+    if(not has_data):
+        raise Exception
+
+    return dict_of_cities,\
+            dict_of_sales
+
+def main():
+    try:
+        file_path = input()
+        file_check(file_path)
+
+        dict_of_cities,\
+        dict_of_sales = file_to_dict_of_cities(file_path)
+
+        sorted_cities = sorted(dict_of_cities.keys(), reverse=False)
+        real_output = list()
+        for city in sorted_cities:
+            output = city
+            items_list = list()
+            has_added = False
+            for sale in dict_of_cities[city]:
+                if len(dict_of_sales[sale])==1:
+                    items_list.append(',' + sale)
+                    has_added = True
+            sorted_items = sorted(items_list, reverse=False)
+            for each in sorted_items:
+                output += each
+            if has_added:
+                real_output.append(output)
+        if(real_output):
+            for line in real_output:
+                print(line)
+        else:
+            print('NO UNIQUE SALES')
+    except(Exception):
+        print('INVALID INPUT')
+
+if __name__ == '__main__':
+    sys.exit(main())

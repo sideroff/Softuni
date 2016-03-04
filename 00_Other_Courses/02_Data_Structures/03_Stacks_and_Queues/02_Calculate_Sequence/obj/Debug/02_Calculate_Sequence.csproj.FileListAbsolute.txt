@@ -1,0 +1,5 @@
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\02_Calculate_Sequence\bin\Debug\02_Calculate_Sequence.exe.config
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\02_Calculate_Sequence\bin\Debug\02_Calculate_Sequence.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\02_Calculate_Sequence\bin\Debug\02_Calculate_Sequence.pdb
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\02_Calculate_Sequence\obj\Debug\02_Calculate_Sequence.exe
+c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\02_Calculate_Sequence\obj\Debug\02_Calculate_Sequence.pdb

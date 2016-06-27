@@ -1,6 +1,0 @@
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\05_LinkedQueue_Implementation\bin\Debug\05_LinkedQueue_Implementation.exe.config
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\05_LinkedQueue_Implementation\bin\Debug\05_LinkedQueue_Implementation.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\05_LinkedQueue_Implementation\bin\Debug\05_LinkedQueue_Implementation.pdb
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\05_LinkedQueue_Implementation\obj\Debug\05_LinkedQueue_Implementation.csprojResolveAssemblyReference.cache
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\05_LinkedQueue_Implementation\obj\Debug\05_LinkedQueue_Implementation.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\05_LinkedQueue_Implementation\obj\Debug\05_LinkedQueue_Implementation.pdb

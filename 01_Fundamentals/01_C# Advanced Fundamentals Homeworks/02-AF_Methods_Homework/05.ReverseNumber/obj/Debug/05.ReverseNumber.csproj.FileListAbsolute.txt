@@ -1,9 +1,0 @@
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\visual studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
-C:\Users\Ivan\Documents\visual studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
-C:\Users\Ivan\Documents\visual studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

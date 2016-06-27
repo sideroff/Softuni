@@ -1,6 +1,0 @@
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\01_Reverse_Numbers_With_Stack\bin\Debug\01_Reverse_Numbers_With_Stack.exe.config
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\01_Reverse_Numbers_With_Stack\bin\Debug\01_Reverse_Numbers_With_Stack.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\01_Reverse_Numbers_With_Stack\bin\Debug\01_Reverse_Numbers_With_Stack.pdb
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\01_Reverse_Numbers_With_Stack\obj\Debug\01_Reverse_Numbers_With_Stack.csprojResolveAssemblyReference.cache
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\01_Reverse_Numbers_With_Stack\obj\Debug\01_Reverse_Numbers_With_Stack.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\01_Reverse_Numbers_With_Stack\obj\Debug\01_Reverse_Numbers_With_Stack.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Find_The_Root", "05_Tree_And_Graph_Traversal\01_Find_The_Root.csproj", "{3778D392-265A-461E-8AAC-7E805BFAACF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Round_Dance", "02_Round_Dance\02_Round_Dance.csproj", "{9C6D5321-0EB0-4D73-8D24-EE29EED15308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Ride_The_Chess_Horse", "03_Ride_The_Chess_Horse\03_Ride_The_Chess_Horse.csproj", "{540C880F-85EF-4277-935A-DEEB5587FDD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Longest_Path_In_Tree", "04_Longest_Path_In_Tree\04_Longest_Path_In_Tree.csproj", "{621E5802-A69F-4F4B-98B5-2AA2497EC623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3778D392-265A-461E-8AAC-7E805BFAACF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3778D392-265A-461E-8AAC-7E805BFAACF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3778D392-265A-461E-8AAC-7E805BFAACF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3778D392-265A-461E-8AAC-7E805BFAACF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6D5321-0EB0-4D73-8D24-EE29EED15308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6D5321-0EB0-4D73-8D24-EE29EED15308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6D5321-0EB0-4D73-8D24-EE29EED15308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6D5321-0EB0-4D73-8D24-EE29EED15308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C880F-85EF-4277-935A-DEEB5587FDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C880F-85EF-4277-935A-DEEB5587FDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C880F-85EF-4277-935A-DEEB5587FDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C880F-85EF-4277-935A-DEEB5587FDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621E5802-A69F-4F4B-98B5-2AA2497EC623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621E5802-A69F-4F4B-98B5-2AA2497EC623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621E5802-A69F-4F4B-98B5-2AA2497EC623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621E5802-A69F-4F4B-98B5-2AA2497EC623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

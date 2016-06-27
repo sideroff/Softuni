@@ -1,7 +1,0 @@
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\bin\Debug\10.StudentsFrom2014.exe.config
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\bin\Debug\10.StudentsFrom2014.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\bin\Debug\10.StudentsFrom2014.pdb
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\bin\Debug\01.Class-Student.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\bin\Debug\01.Class-Student.pdb
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\obj\Debug\10.StudentsFrom2014.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\10.StudentsFrom2014\obj\Debug\10.StudentsFrom2014.pdb

@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\06.CountSymbols\bin\Debug\06.CountSymbols.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\06.CountSymbols\obj\Debug\06.CountSymbols.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

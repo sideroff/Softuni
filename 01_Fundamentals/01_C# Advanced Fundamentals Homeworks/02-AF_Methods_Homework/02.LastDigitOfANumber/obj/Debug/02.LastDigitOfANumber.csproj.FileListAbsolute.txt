@@ -1,9 +1,0 @@
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\02.LastDigitOfANumber\bin\Debug\02.LastDigitOfANumber.exe.config
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\02.LastDigitOfANumber\obj\Debug\02.LastDigitOfANumber.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\02.LastDigitOfANumber\bin\Debug\02.LastDigitOfANumber.exe
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\02.LastDigitOfANumber\bin\Debug\02.LastDigitOfANumber.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\02.LastDigitOfANumber\obj\Debug\02.LastDigitOfANumber.exe
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\02.LastDigitOfANumber\obj\Debug\02.LastDigitOfANumber.pdb
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\02.LastDigitOfANumber\bin\Debug\02.LastDigitOfANumber.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\02.LastDigitOfANumber\obj\Debug\02.LastDigitOfANumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\02.LastDigitOfANumber\obj\Debug\02.LastDigitOfANumber.pdb

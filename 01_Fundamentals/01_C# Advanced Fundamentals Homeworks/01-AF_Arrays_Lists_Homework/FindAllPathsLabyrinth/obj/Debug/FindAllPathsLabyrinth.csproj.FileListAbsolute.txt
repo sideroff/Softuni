@@ -1,9 +1,0 @@
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\FindAllPathsLabyrinth\bin\Debug\FindAllPathsLabyrinth.exe.config
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\FindAllPathsLabyrinth\bin\Debug\FindAllPathsLabyrinth.exe
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\FindAllPathsLabyrinth\bin\Debug\FindAllPathsLabyrinth.pdb
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\FindAllPathsLabyrinth\obj\Debug\FindAllPathsLabyrinth.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\FindAllPathsLabyrinth\obj\Debug\FindAllPathsLabyrinth.exe
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\FindAllPathsLabyrinth\obj\Debug\FindAllPathsLabyrinth.pdb
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\FindAllPathsLabyrinth\bin\Debug\FindAllPathsLabyrinth.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\FindAllPathsLabyrinth\obj\Debug\FindAllPathsLabyrinth.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\FindAllPathsLabyrinth\obj\Debug\FindAllPathsLabyrinth.pdb

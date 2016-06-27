@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2015\Projects\Solution1\06.Palindromes\bin\Debug\06.Palindromes.exe.config
-c:\users\ivan\documents\visual studio 2015\Projects\Solution1\06.Palindromes\bin\Debug\06.Palindromes.exe
-c:\users\ivan\documents\visual studio 2015\Projects\Solution1\06.Palindromes\bin\Debug\06.Palindromes.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\Solution1\06.Palindromes\obj\Debug\06.Palindromes.exe
-c:\users\ivan\documents\visual studio 2015\Projects\Solution1\06.Palindromes\obj\Debug\06.Palindromes.pdb

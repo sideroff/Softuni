@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\01.OddLines\bin\Debug\01.OddLines.exe.config
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\01.OddLines\bin\Debug\01.OddLines.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\01.OddLines\bin\Debug\01.OddLines.pdb
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\01.OddLines\obj\Debug\01.OddLines.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\01.OddLines\obj\Debug\01.OddLines.pdb

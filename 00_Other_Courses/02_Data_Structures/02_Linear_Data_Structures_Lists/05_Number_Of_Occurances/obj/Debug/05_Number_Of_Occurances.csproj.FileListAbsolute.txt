@@ -1,5 +1,0 @@
-C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\05_Number_Of_Occurances\bin\Debug\05_Number_Of_Occurances.exe.config
-C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\05_Number_Of_Occurances\bin\Debug\05_Number_Of_Occurances.exe
-C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\05_Number_Of_Occurances\bin\Debug\05_Number_Of_Occurances.pdb
-C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\05_Number_Of_Occurances\obj\Debug\05_Number_Of_Occurances.exe
-C:\Users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\05_Number_Of_Occurances\obj\Debug\05_Number_Of_Occurances.pdb

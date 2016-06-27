@@ -1,8 +1,0 @@
-G:\Chrome Downloads\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
-G:\Chrome Downloads\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
-G:\Chrome Downloads\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
-G:\Chrome Downloads\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-G:\Chrome Downloads\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
-G:\Chrome Downloads\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
-G:\Chrome Downloads\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
-G:\Chrome Downloads\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

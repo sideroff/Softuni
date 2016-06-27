@@ -1,5 +1,0 @@
-G:\Chrome Downloads\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
-G:\Chrome Downloads\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
-G:\Chrome Downloads\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
-G:\Chrome Downloads\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
-G:\Chrome Downloads\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

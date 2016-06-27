@@ -1,6 +1,0 @@
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\04_LinkedStack_Implementation\bin\Debug\04_LinkedStack_Implementation.exe.config
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\04_LinkedStack_Implementation\obj\Debug\04_LinkedStack_Implementation.csprojResolveAssemblyReference.cache
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\04_LinkedStack_Implementation\bin\Debug\04_LinkedStack_Implementation.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\04_LinkedStack_Implementation\bin\Debug\04_LinkedStack_Implementation.pdb
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\04_LinkedStack_Implementation\obj\Debug\04_LinkedStack_Implementation.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\03_Stacks_and_Queues\04_LinkedStack_Implementation\obj\Debug\04_LinkedStack_Implementation.pdb

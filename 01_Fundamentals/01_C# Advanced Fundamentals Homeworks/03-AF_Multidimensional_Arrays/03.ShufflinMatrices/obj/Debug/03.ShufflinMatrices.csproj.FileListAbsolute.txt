@@ -1,8 +1,0 @@
-C:\Users\Ivan\documents\visual studio 2015\Projects\Solution1\03.ShufflinMatrices\bin\Debug\03.ShufflinMatrices.exe.config
-C:\Users\Ivan\documents\visual studio 2015\Projects\Solution1\03.ShufflinMatrices\bin\Debug\03.ShufflinMatrices.exe
-C:\Users\Ivan\documents\visual studio 2015\Projects\Solution1\03.ShufflinMatrices\bin\Debug\03.ShufflinMatrices.pdb
-C:\Users\Ivan\documents\visual studio 2015\Projects\Solution1\03.ShufflinMatrices\obj\Debug\03.ShufflinMatrices.exe
-C:\Users\Ivan\documents\visual studio 2015\Projects\Solution1\03.ShufflinMatrices\obj\Debug\03.ShufflinMatrices.pdb
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\03.ShufflinMatrices\bin\Debug\03.ShufflinMatrices.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\03.ShufflinMatrices\obj\Debug\03.ShufflinMatrices.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-Multidimensional_Arrays\03.ShufflinMatrices\obj\Debug\03.ShufflinMatrices.pdb

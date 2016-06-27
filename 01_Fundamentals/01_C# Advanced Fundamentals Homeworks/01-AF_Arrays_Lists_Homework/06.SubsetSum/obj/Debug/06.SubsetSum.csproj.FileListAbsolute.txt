@@ -1,7 +1,0 @@
-C:\Users\Ivan\documents\visual studio 2015\Projects\14.9-exercise\06.SubsetSum\bin\Debug\06.SubsetSum.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\06.SubsetSum\bin\Debug\06.SubsetSum.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\06.SubsetSum\bin\Debug\06.SubsetSum.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\06.SubsetSum\bin\Debug\06.SubsetSum.pdb
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\06.SubsetSum\obj\Debug\06.SubsetSum.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\06.SubsetSum\obj\Debug\06.SubsetSum.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\01.AF_Arrays_Lists_Homework\06.SubsetSum\obj\Debug\06.SubsetSum.pdb

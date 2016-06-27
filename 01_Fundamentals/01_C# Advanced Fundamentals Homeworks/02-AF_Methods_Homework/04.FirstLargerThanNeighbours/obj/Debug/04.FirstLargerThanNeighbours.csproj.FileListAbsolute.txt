@@ -1,9 +1,0 @@
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

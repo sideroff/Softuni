@@ -1,5 +1,0 @@
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\02_Sort_Words\bin\Debug\02_Sort_Words.exe.config
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\02_Sort_Words\bin\Debug\02_Sort_Words.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\02_Sort_Words\bin\Debug\02_Sort_Words.pdb
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\02_Sort_Words\obj\Debug\02_Sort_Words.exe
-c:\users\ivans\onedrive\documents\visual studio 2015\Projects\Solution1\02_Sort_Words\obj\Debug\02_Sort_Words.pdb

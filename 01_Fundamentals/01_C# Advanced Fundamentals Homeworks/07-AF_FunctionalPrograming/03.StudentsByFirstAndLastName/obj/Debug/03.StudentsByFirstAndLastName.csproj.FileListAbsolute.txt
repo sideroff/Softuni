@@ -1,1 +1,0 @@
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\Solution2\01.Class-Student\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.exe.config

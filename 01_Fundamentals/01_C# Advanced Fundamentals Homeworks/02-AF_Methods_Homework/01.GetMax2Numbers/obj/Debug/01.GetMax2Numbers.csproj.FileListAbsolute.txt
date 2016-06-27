@@ -1,1 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Softuni - Adv.Fundamentals\02-AF_Methods_Homework\01.GetMax2Numbers\bin\Debug\01.GetMax2Numbers.exe.config

@@ -1,8 +1,0 @@
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.exe
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
-G:\Chrome Downloads\03_DS_Exercise\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

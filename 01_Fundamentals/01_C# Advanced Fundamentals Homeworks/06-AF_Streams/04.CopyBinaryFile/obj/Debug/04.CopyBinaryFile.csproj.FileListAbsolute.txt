@@ -1,5 +1,0 @@
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
-C:\Users\Ivan\Documents\GitHub\LammaRepo\SokobanShroofs\06.Files\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

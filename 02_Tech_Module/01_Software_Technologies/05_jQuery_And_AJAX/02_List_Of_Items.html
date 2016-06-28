@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add to list</title>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <script src="script/02_js.js"></script>
+</head>
+<body>
+    <main>
+        <h1>List of items</h1>
+        <ul id="itemList">
+            <li>item 1</li>
+            <li>item 2</li>
+        </ul>
+        <form>
+            <input type="text" id="textBox">
+            <br>
+            <label for="clearTextBox">Clear text with submition</label>
+            <input type="checkbox" name="group1" id="clearTextBox" value="0" />
+        </form>
+        <button type="submit" id="submitButton" onclick="addToList()">Submit</button>
+    </main>
+</body>
+</html>

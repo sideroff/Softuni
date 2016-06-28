@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Show More Text</title>
+    <script>
+        function showText() {
+            let button = document.getElementById('showMore');
+            let displayProp = document.getElementById('hiddenText')
+            if(displayProp.style.display == 'none'){
+                displayProp.style.display='inline-block'
+                button.innerText='(hide)'
+            }
+            else{
+                displayProp.style.display='none'
+                button.innerText='(show more)'
+            }
+
+        }
+
+    </script>
+</head>
+<body>
+    <main>
+        <p id="paragraph" >Welcome to this webpage.
+            <span id="hiddenText" style="display: none;">Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. Some hidden text. </span>
+            <a href="#" id="showMore"onclick="showText()">(read more)</a></p>
+
+    </main>
+</body>
+</html>

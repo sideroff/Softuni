@@ -1,0 +1,11 @@
+li a {
+    display: none;
+}
+
+li:hover a {
+    display: inline;
+}
+
+li {
+    list-style-type: square;
+}

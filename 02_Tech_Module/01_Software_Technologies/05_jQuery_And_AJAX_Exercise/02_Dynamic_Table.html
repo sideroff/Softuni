@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries</title>
+
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <script src="script/02_js.js"></script>
+    <link rel="stylesheet" type="text/css" href="style/02_css.css">
+</head>
+<body>
+    <main>
+        <h1>Countries</h1>
+        <table id="countriesTable">
+            <tr>
+                <th>Country</th>
+                <th>Capital</th>
+                <th>Actions</th>
+            </tr>
+            <tr>
+                <td>Bulgaria</td>
+                <td>Sofia</td>
+                <td>
+                    <a href="#" class="moveUp">[Up]</a>
+                    <a href="#" class="moveDown">[Down]</a>
+                    <a href="#" class="remove">[Remove]</a>
+                </td>
+            </tr>
+        </table>
+
+        <h1>Add new country:</h1>
+        <form>
+            <label for="countryName">Country:</label>
+            <input type="text" id="countryName">
+            <label for="capitalName">Capital:</label>
+            <input type="text" id="capitalName">
+            <input type="submit" id="addCountry">
+        </form>
+    </main>
+</body>
+</html>

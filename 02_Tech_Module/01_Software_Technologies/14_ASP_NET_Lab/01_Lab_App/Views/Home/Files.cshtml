@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Files";
+}
+
+<h2>Files</h2>
+    
+    @model List<string>
+<form>
+    <input type="text" name="path" value="put path here"/>
+    <input type="submit"/>
+</form>
+    @foreach (var str in Model)
+    {
+        <div>@str</div>
+    }
+

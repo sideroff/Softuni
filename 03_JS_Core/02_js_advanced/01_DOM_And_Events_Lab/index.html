@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM and Events</title>
+    <script src="js.js"></script>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+
+<h3>1.	Sum Numbers</h3>
+<hr>
+<input type="text" id="num1" /> +
+<input type="text" id="num2" /> =
+<input type="text" id="sum" readonly="readonly" />
+<input type="button" value="Calc" onclick="calc()" />
+
+<h3>2.	Show More</h3>
+<hr>
+Welcome to the "Show More Text Example".
+<a href="#" id="more" onclick= "showText()">Read more …</a>
+<span id="text" style= "display:none">Welcome to JavaScript and DOM.</span>
+
+<h3>3.	Collect List Items</h3>
+<hr>
+<ul id="items1">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<textarea id="result1"></textarea>
+<br>
+<button onclick="extractText()">Extract Text</button>
+
+<h3></h3>
+<hr>
+<table>
+    <tr><th>Name</th><th>Town</th></tr>
+    <tr><td>Eve</td><td>Sofia</td></tr>
+    <tr><td>Nick</td><td>Varna</td></tr>
+    <tr><td>Didi</td><td>Ruse</td></tr>
+    <tr><td>Tedy</td><td>Varna</td></tr>
+</table>
+<button onclick="colorize()">Colorize</button>
+
+
+<h3></h3>
+<hr>
+<h4>List of Items</h4>
+<ul id="items2"><li>First</li><li>Second</li></ul>
+<input type="text" id="newItemText" />
+<input type="button" value="Add" onclick="addItem2()">
+
+<h3></h3>
+<hr>
+<h4>List of Items</h4>
+<ul id="items"></ul>
+<input type="text" id="newText" />
+<input type="button" value="Add"
+       onclick="addItem(this)">
+
+<h3></h3>
+<hr>
+<table border="1" id="customers">
+    <tr><th>Name</th><th>Email</th></tr>
+    <tr><td>Eve</td><td>eve@gmail.com</td></tr>
+    <tr><td>Nick</td><td>nick@yahooo.com</td></tr>
+    <tr><td>Didi</td><td>didi@didi.net</td></tr>
+    <tr><td>Tedy</td><td>tedy@tedy.com</td></tr>
+</table>
+Email: <input type="text" name="email" />
+<button onclick="deleteByEmail()">Delete</button>
+<div id="result2" />
+
+<h3></h3>
+<hr>
+<div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+<button id="startBtn">Start</button>
+<button id="stopBtn" disabled="true">Stop</button>
+
+<h3></h3>
+<hr>
+<div id="gradient-box">
+    <div id="gradient">Click me!</div>
+</div>
+<div id="result"></div>
+
+
+</body>
+</html>

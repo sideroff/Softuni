@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>02_JQuery</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+    <script src="js.js"></script>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+
+<h3>1.Text from List</h3>
+<hr>
+<ul id="items1">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<button onclick="extractText()">
+    Extract Text</button>
+<div id="result1"></div>
+
+<h3>2.Search in List</h3>
+<hr>
+<ul id="towns">
+    <li>Sofia</li>
+    <li>Pleven</li>
+    <li>Varna</li>
+    <li>Plovdiv</li>
+</ul>
+<input type="text" id="searchText" />
+<button onclick="search()">Search</button>
+<div id="result"></div>
+
+<h3>3.Countries Table</h3>
+<hr>
+<table id="countriesTable">
+    <tr>
+        <th>Country</th>
+        <th>Capital</th>
+        <th>Action</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="newCountryText" /></td>
+        <td><input type="text" id="newCapitalText" /></td>
+        <td><a href="#" id="createLink">[Create]</a></td>
+    </tr>
+</table>
+
+<h3>4.Link Buttons</h3>
+<hr>
+<a class="button">Sofia</a>
+<a class="button">Plovdiv</a>
+<a class="button">Varna</a>
+
+<h3>5.Selectable Towns</h3>
+<hr>
+<ul id="items">
+    <li>Sofia</li>
+    <li>Varna</li>
+    <li>Plovdiv</li>
+    <li>Bourgas</li>
+    <li>Rousse</li>
+</ul>
+<button id="showTownsButton">Show Towns</button>
+<div id="selectedTowns"></div>
+
+
+</body>
+</html>

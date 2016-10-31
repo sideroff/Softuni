@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>05_Object_Composition_Lab</title>
+    <script   src="https://code.jquery.com/jquery-3.1.1.min.js"
+              integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+              crossorigin="anonymous">
+
+    </script>
+    <link rel="stylesheet" href="css.css">
+    <script src="js.js"></script>
+</head>
+<body>
+
+<h1>Output is printed on the console (press f12)</h1>
+<hr>
+<h3>1. Order Rectangles</h3>
+<span>Fill with rectangle width and height on each row</span>
+<br>
+<textarea id="rectangles" cols="30" rows="10">1 2
+2 3
+5 18
+29 30
+30 29</textarea>
+<button id="orderRects">Order</button>
+
+<hr>
+<h3>2. Fibonacci</h3>
+<span>Fill with N for 1 to N fibonacci numbers</span>
+<br>
+<input type="text" id='nForFib' value="10">
+<button id="getFibonacci">Order</button>
+
+<hr>
+<h3>3. List Processor</h3>
+<span>Fill with commands add (str), remove (str), print seperated by coma</str></span>
+<br>
+<input type="text" id='commands' value="add pesho, add pesho, add pesho, add gosho, remove pesho, print">
+<button id="executeCommands">Execute</button>
+
+</body>
+</html>

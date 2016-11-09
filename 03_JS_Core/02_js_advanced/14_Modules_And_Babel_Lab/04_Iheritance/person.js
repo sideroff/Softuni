@@ -1,0 +1,16 @@
+/**
+ * Created by ivans on 09-Nov-16.
+ */
+let Entity = require('./entity')
+
+class Person extends Entity{
+    constructor(name,phrase,dog){
+        super(name)
+        this.phrase = phrase
+        this.dog = dog
+    }
+    saySomething(){
+        return `${this.name} says: ${this.phrase}${this.dog.name} barks!`
+    }
+}
+module.exports = Person

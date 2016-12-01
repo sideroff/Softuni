@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script
+            src="https://code.jquery.com/jquery-3.1.1.min.js"
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+            crossorigin="anonymous"></script>
+
+    <title>example</title>
+    <script src="./node_modules/systemjs/dist/system.js"></script>
+</head>
+<body>
+    <div class="person"></div>
+
+    <script>
+        System.config({meta: {format: 'cjs'}});
+        System.import('./app.js');
+    </script>
+</body>
+
+</html>
